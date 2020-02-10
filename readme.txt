@@ -39,4 +39,4 @@ CSS (bootstrap)
 ​
 ​
 #  Direct link to example file:
-https://github.com/filipratkovic/Developer-Profile-Generator/master/resume.pdf
+https://github.com/filipratkovic/Developer-Profile-Generator/blob/master/resume.pdf
